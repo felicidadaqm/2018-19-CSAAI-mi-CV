@@ -1,0 +1,43 @@
+body {
+    background-color: #F5F5F5;
+}
+
+h1 {
+  color: 	#CD5C5C;
+  text-align: center;
+  font-family: fantasy, tahoma;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+p {
+  color: black;
+  text-align: justify;
+  font-family: georgia;
+}
+
+h3 {
+  margin-top: 40px;
+  vertical-align: top;
+  margin-bottom: 0px;
+  font-family: fantasy;
+  font-size: 23px;
+  color: 	#CD5C5C;
+  text-transform: uppercase;
+  text-align: center;
+  padding-left: 290px;
+}
+
+#General {
+  width: 500px;
+  border: 0.5px solid #DB7093;
+  padding: 1px 10px 3px 15px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: #D8BFD8;
+
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
